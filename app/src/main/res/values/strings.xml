@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Camera Ramble v0.1</string>
+    <string name="app_name">CameraRamble v0.1</string>
 
 
     <!-- HomeActivity -->
@@ -11,6 +11,7 @@
     <string-array name="drawer_titles">
         <item>Home</item>
         <item>Ramble</item>
+        <item>About</item>
     </string-array>
     <string name="open_drawer">Open drawer</string>
     <string name="close_drawer">Close drawer</string>
@@ -24,11 +25,13 @@
 
     <!-- RambleFragment -->
     <string-array name="ramble_list">
-        <item>Start</item>
+        <item>New</item>
         <item>View</item>
     </string-array>
     <string name="hello_ramble_fragment">Hello Ramble fragment</string>
 
     <!-- AboutFragment -->
     <string name="hello_about_fragment">About ....  </string>
+    <string name="message_about_fragment">CameraRamble App by LePhotographeLibre 2017 </string>
+
 </resources>

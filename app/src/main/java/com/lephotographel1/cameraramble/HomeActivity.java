@@ -114,7 +114,10 @@ public class HomeActivity extends Activity {
         Fragment fragment;
         switch(position) {
             case 1:
-                fragment = new TopFragment();
+                fragment = new RambleFragment();
+                break;
+            case 2:
+                fragment = new AboutFragment();
                 break;
             default:
                 fragment = new TopFragment();
