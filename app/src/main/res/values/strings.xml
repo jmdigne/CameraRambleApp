@@ -19,6 +19,7 @@
     <!-- CreateNewRambleActivity -->
     <string name="title_activity_new_ramble">Create new ramble</string>
 
+
     <!-- TopFragment -->
     <string name="title_top">Top fragment Title</string>
     <string name="hello_blank_fragment">Hello Top fragment</string>
