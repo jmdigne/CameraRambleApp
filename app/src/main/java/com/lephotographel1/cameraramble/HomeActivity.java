@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ShareActionProvider;
 
-public class HomeActivity  extends Activity {
+public class HomeActivity extends Activity {
 
     private ShareActionProvider shareActionProvider;
 
