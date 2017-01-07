@@ -32,7 +32,7 @@
     <string name="hello_ramble_fragment">Hello Ramble fragment</string>
 
     <!-- AboutFragment -->
-    <string name="hello_about_fragment">About ....  </string>
+
     <string name="message_about_fragment">CameraRamble App by LePhotographeLibre 2017 </string>
 
 </resources>
