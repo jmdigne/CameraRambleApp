@@ -26,6 +26,9 @@ import android.util.Log;
 
 public class CreateNewRambleActivity extends Activity {
 
+    // TODO: Consider using Google Play Service instead of LocationManager using exmple https://jmmiddleware.wordpress.com/2017/01/07/androidsdk-android-location-api-using-google-play-services-example/
+    // see why https://jmmiddleware.wordpress.com/2017/01/07/android-locationmanager-vs-google-play-services/
+
 /**
       @Override
       protected void onCreate(Bundle savedInstanceState) {
